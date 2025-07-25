@@ -1,4 +1,4 @@
- # 30212_weixin212答题小程序ssm演示录像.mp4
+ # 30212_weixin答题小程序ssm演示录像.mp4
     
  
  # 项目资料包含：
@@ -9,7 +9,7 @@
  # 项目资料获取方式
  * 需要资料或者有任何问题的加QQ：2684634017
 
- * 项目源代码下载地址：http://blog.codercode.cn/#/home/goodDetail?goodId=30212
+ * 项目源代码下载地址：https://bysj.bsitem.com/#/home/goodDetail?goodId=30212
  
  
  * 项目演示视频；https://graduation-images.oss-cn-beijing.aliyuncs.com/videos/297%E5%A5%97-2-%E5%B0%8F%E7%A8%8B%E5%BA%8F%E5%BD%95%E5%83%8F/30212_weixin212%E7%AD%94%E9%A2%98%E5%B0%8F%E7%A8%8B%E5%BA%8Fssm%E6%BC%94%E7%A4%BA%E5%BD%95%E5%83%8F.mp4
